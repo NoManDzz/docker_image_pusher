@@ -1,4 +1,3 @@
 #支持指定架构
---platform linux/arm64 cooderl/wewe-rss-sqlite:latest
---platform linux/arm64/mysql
-mysql
+--platform=linux/amd64 mysql
+
