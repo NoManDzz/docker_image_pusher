@@ -3,4 +3,4 @@
 --platform=linux/amd64/v8 mysql
 --platform=linux/arm64/v8 mysql
 --platform=linux/arm64/v8 nginx
---platform=linux/arm64/v8 nacos
+--platform=linux/arm64/v8 nacos/nacos-server
