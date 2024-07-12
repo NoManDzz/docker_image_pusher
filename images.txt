@@ -4,4 +4,4 @@
 --platform=linux/arm64/v8 mysql
 --platform=linux/arm64/v8 nginx
 --platform=linux/arm64/v8 nacos/nacos-server:v2.3.2-slim
---platform=linux/arm64/v8 seataio/seata-server:1.5.2
+--platform=linux/arm64/v8 rabbitmq
